@@ -3,8 +3,8 @@
 ## Running the "hello world"-example
 
 1. Install node.js and npm
-* Linux: Run install-nodejs-linux.sh to install node.js and npm
-* Windows (MSYS): Run install-nodejs-windows.sh to install node.js and npm
+* Linux: sudo apt-get install nodejs npm
+* Windows/MacOS: Install package from https://nodejs.org/en/download/
 2. Run install-electron.sh to install electron
 3. Run run.sh to run the Desktop app
 
