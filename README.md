@@ -2,10 +2,10 @@
 
 ## Building the "hello world"-example
 
-* Linux: Run install-nodejs-linux.sh to install node.js and npm
-* Windows (MSYS): Run install-nodejs-windows.sh to install node.js and npm
-* Run install-electron.sh to install electron
-* Run run.sh o run the Desktop app
+1b. Linux: Run install-nodejs-linux.sh to install node.js and npm
+1a. Windows (MSYS): Run install-nodejs-windows.sh to install node.js and npm
+2. Run install-electron.sh to install electron
+3. Run run.sh o run the Desktop app
 
 ## Running your own website as a desktop-app:
 
