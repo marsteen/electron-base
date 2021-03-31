@@ -10,8 +10,8 @@
 
 ## Running your own website as a desktop-app:
 
-* Copy the website into the "app"-folder, overwriting the index.html-file
-* Run run.sh
+* Copy the website into the "app"-folder, overwriting the index.html-file.
+* Run run.sh to run your webseite as a desktop-app.
 
 ### Prerequisites
 
