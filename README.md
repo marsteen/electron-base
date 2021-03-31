@@ -21,7 +21,7 @@ Software used for development
 
 ## Resources
 
-* Vulkan Tutorial: https://www.electronjs.org/docs/tutorial/quick-start
+* Electron quick start tutorial: https://www.electronjs.org/docs/tutorial/quick-start
 
 
 
