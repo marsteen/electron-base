@@ -1,6 +1,6 @@
 # electron base project
 
-## Building the "hello world"-example
+## Running the "hello world"-example
 
 1. Install node.js and npm
 * Linux: Run install-nodejs-linux.sh to install node.js and npm
@@ -10,8 +10,9 @@
 
 ## Running your own website as a desktop-app:
 
-* Copy the website into the "app"-folder, overwriting the index.html-file.
-* Run run.sh to run your webseite as a desktop-app.
+1. Install node.js, npm and electron (skip if already installed)
+2. Copy the website into the "app"-folder, overwriting the index.html-file.
+3. Run run.sh to run your webseite as a desktop-app.
 
 ### Prerequisites
 
