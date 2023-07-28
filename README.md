@@ -5,7 +5,7 @@
 1. Install node.js and npm
 * Linux: sudo apt-get install nodejs npm
 * Windows/MacOS: Install package from https://nodejs.org/en/download/
-2. Run install-electron.sh to install electron
+2. Run install-electron.sh to install electron (NOT with sudo)
 3. Run run.sh to run the Desktop app
 
 ## Running your own website as a desktop-app:
